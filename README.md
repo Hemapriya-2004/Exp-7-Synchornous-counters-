@@ -54,6 +54,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 
 
 ### PROGRAM 
+```
 /*
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: R Hemapriya
@@ -85,29 +86,26 @@ counter_down<=counter_down+4'd1;
 end
 assign counter=counter_down;
 endmodule
-
+```
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
-
-
-
-
-
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
-
-
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
 
 ### TRUTH TABLE 
 
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
-
-
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
 
 ### RESULTS 
