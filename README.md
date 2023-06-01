@@ -92,20 +92,20 @@ endmodule
 
 ![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
 
-![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%202.png)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
-![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%203.png)
 
-![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%204.png)
 
 
 ### TRUTH TABLE 
 
-![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%205.png)
 
-![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%201.png)
+![output](https://github.com/Hemapriya-2004/Exp-7-Synchornous-counters-/blob/main/6%206.png)
 
 
 ### RESULTS 
